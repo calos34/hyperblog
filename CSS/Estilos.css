@@ -1,9 +1,14 @@
 body
 {
-    color: red;
+    color: #333;
     text-align: center;
+<<<<<<< HEAD
     font-family: Arial;
     font-size: 16px;
+=======
+    font-family: "Courier";
+    font-family: Arial;
+>>>>>>> 3f68fd557d2434f8ddb092c8c9bfc6187677a9cb
     margin: 0;
     padding: 0;
 }
