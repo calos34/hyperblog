@@ -10,5 +10,10 @@ niñita
 *Trucos muy locos del profesor
 *Las personalidades multiples de Freddy vega
 *Creado por el platzi Team
+<<<<<<< HEAD
 
+=======
+*Incluye ejemplos en windows, Linux y Max
+*Disponible para todas las edades
+>>>>>>> readme-mejorado
 Y como un recordatorio: **Este readme.md es un chite**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO Y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
